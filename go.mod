@@ -1,6 +1,6 @@
 module github.com/usherasnick/Useful-Go-Gadgets
 
-go 1.13
+go 1.16
 
 require (
 	github.com/Comcast/go-leaderelection v0.0.0-20181102191523-272fd9e2bddc
