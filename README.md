@@ -18,4 +18,4 @@ Very useful code snippets for Gophers!
 
 ## License
 
-* This project is licensed under the MIT License - see the **[MIT license](http://opensource.org/licenses/mit-license.php)** for details.
+* This project is licensed under the MIT License - see the **[MIT license](http://opensource.org/licenses/mit-license.php)** for details. 
